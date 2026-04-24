@@ -13,7 +13,10 @@
 .seccion1 {
     background-color: #F5EEF5;
     width: 100%;
-    padding: 40px 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
     margin-bottom: 10px;
 }
 
@@ -78,7 +81,10 @@
 .seccion2-1 {
     float: left;
     width: 50%;
-    padding: 40px 30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
     min-height: 360px;
 }
 
@@ -108,7 +114,10 @@
 .seccion3-2 {
     float: left;
     width: 50%;
-    padding: 40px 30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
     background-color: #FAF8F5;
     min-height: 360px;
 }
@@ -123,7 +132,10 @@
 .seccion4-1 {
     float: left;
     width: 50%;
-    padding: 40px 30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
     min-height: 360px;
 }
 
@@ -139,7 +151,10 @@
 footer {
     background-color: #1A1A1A;
     color: #fff;
-    padding: 40px 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 /* Al bloque del título del footer le ponemos un margen con la parte de abajo */
